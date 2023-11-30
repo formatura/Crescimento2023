@@ -101,8 +101,16 @@ header{
 .hatracoes{
 	font-size: 0.8rem;
 }
-
-
+#contatra {
+	padding-top: 10px;
+	padding-left: 50px;
+}
+#atracoes-container{
+	width: auto;
+	display:column;
+	padding:30px;
+	padding-left:70px;
+}
 
 
 
@@ -139,6 +147,9 @@ header{
 	width:70vw;
 	padding: 10px;
 	
+}
+#galeriasec{
+	background:url('backgaleriamobile.png')no-repeat;
 }
 #g1 {
 	margin-left:10vw;
