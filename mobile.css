@@ -105,7 +105,7 @@ header{
 	width:50vw;
 	height:auto;
 }
-#contatra{
+.hatracoes{
 	font-size: 0.8rem;
 }
 
@@ -134,8 +134,8 @@ header{
 	width: 28vw;
 }
 #capainsta{
-	height: 5vh;
-	max-width: 50vw;
+	height: 100px;
+	width: auto;
 	
 }
 #instaturma{
@@ -229,6 +229,7 @@ header{
 	padding:20px;
 }
 .fim {
+	padding-top:30px;
 	padding:10px;
 }
 
