@@ -93,9 +93,9 @@ header{
 	width: 90%;
 }
 .cartaz img{
-	margin-bottom: 0vw;
+	padding-bottom: 0vw;
 	margin-top:auto;
-	margin-left: 2vw;
+	margin-left: 1vw;
 	/*max-width:50vw;*/
 	height: auto;
 	max-width: 60vw;
@@ -104,6 +104,9 @@ header{
 	
 	width:50vw;
 	height:auto;
+}
+#contatra{
+	font-size: 0.8rem;
 }
 
 
