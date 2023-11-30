@@ -85,20 +85,18 @@ header{
 #atracoes{
 	padding:30px;
 	background: url('backatracaomobile.png') no-repeat center center/cover;
-}
-.hora{
-	width:130px;
-}
-#atracoes {
 	width: 100vw;
+	hight: auto;
 }
+
+
 .cartaz img{
-	none;
+	width:0px;
 }
 .cartaz {
 	
-	width:0vw;
-	height:0vh;
+	width:0px;
+	height:0px;
 }
 .hatracoes{
 	font-size: 0.8rem;
