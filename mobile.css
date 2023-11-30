@@ -83,6 +83,18 @@ header{
 	 width:100vw;
 	 padding: 0px; 
  }
+.legenda {
+	width: 45vw;
+	display: column;
+	gap:10px;
+	font-style: italic;	
+}
+
+.containlegenda {
+	display: column;
+	padding-bottom: 15px;
+	text-align: center;
+}
 #quadropontos {
 	display:column;
 	padding-bottom: 4vh;
