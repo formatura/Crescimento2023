@@ -3,6 +3,7 @@
 }
 #navbar {
     height: 163px;
+	width:100vw;
 	background: url('backmenumobile.jpg');
 	opacity: 0.8;
 	/*background-color: rgba(12,68,63,0.8);*/
