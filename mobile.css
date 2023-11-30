@@ -134,17 +134,17 @@ header{
 	height:60vh;
 }
 #galeria img{
-	height: 40vh;
-	width:auto;
+	height: auto;
+	width:70vw;
 	padding: 10px;
 	
 }
 #g1 {
-	margin-left:14vw;
+	margin-left:10vw;
 	
 }
 #g2 {
-	margin-left:8vw;
+	margin-left: 6vw;
 }
 #g3 {
 	margin-left:2vw;
