@@ -107,6 +107,17 @@ header{
 #instaturma{
 	height:60vh;
 }
+#galeria img{
+	height: 40vh;
+	width:auto;
+	padding: 10px;
+	
+}
+
+
+
+
+
 
 /*HOMENAGEM*/
 #homenagem{
