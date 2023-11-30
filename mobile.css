@@ -64,7 +64,7 @@ header{
 
 
 .tsecao {
-    font-size: 1.7rem;
+    font-size: 1.9rem;
    }
 
 /*MAPA*/
@@ -89,21 +89,16 @@ header{
 .hora{
 	width:130px;
 }
-#atracoes-container{
-	width: 90%;
+#atracoes {
+	width: 100vw;
 }
 .cartaz img{
-	padding-bottom: 0vw;
-	margin-top:auto;
-	margin-left: 1vw;
-	/*max-width:50vw;*/
-	height: auto;
-	max-width: 60vw;
+	none;
 }
 .cartaz {
 	
-	width:50vw;
-	height:auto;
+	width:0vw;
+	height:0vh;
 }
 .hatracoes{
 	font-size: 0.8rem;
