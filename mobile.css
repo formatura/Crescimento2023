@@ -96,8 +96,7 @@ header{
 	text-align: center;
 }
 #quadropontos {
-	display:column;
-	padding-bottom: 4vh;
+	grid-template-columns: repeat(1, 1fr);
 }
 
 
