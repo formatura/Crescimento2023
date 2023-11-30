@@ -95,6 +95,19 @@ header{
 	height: 30vh;
 }
 
+.titinsta {
+	font-size: 2rem;
+}
+.instagram{
+	padding:10px;
+}
+#capainsta{
+	width: 50%;
+}
+#instaturma{
+	height:60vh;
+}
+
 /*HOMENAGEM*/
 #homenagem{
 	padding-bottom:2px;
