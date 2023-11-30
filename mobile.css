@@ -121,8 +121,8 @@ header{
 	padding:10px;
 }
 #capainsta{
-	width: 50vw;
-	height: 20vh;
+	max-width: 50vw;
+	height: 10vh;
 }
 #instaturma{
 	height:60vh;
@@ -134,14 +134,14 @@ header{
 	
 }
 #g1 {
-	margin-left:20vw;
+	margin-left:14vw;
 	
 }
 #g2 {
-	margin-left:12vw;
+	margin-left:8vw;
 }
 #g3 {
-	margin-left:6vw;
+	margin-left:2vw;
 }
 
 
