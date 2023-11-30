@@ -90,6 +90,14 @@ header{
 #atracoes-container{
 	width: 90%;
 }
+.cartaz img{
+	position: absolute;
+	margin-top:50px;
+	margin-left: 15vw;
+	/*max-width:50vw;*/
+	height: auto;
+	max-width: 60vw;
+}
 
 /*BUFFET*/
 #buffet{
