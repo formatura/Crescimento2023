@@ -140,10 +140,11 @@ header{
 	padding-left: 55px;
 }
 #atracoes-container{
-	width: auto;
-	display:column;
-	padding:30px;
-	padding-left:75px;
+	width: 0px;
+}
+.hatracoes{
+	width: 0px;
+	color:transparent;
 }
 
 
