@@ -11,9 +11,10 @@ body {
 	background: url('backmenumobile.jpg') no-repeat;
 	background-size: 100% auto;
 	opacity: 0.8;
+	 position: fixed;
 	/*background-color: rgba(12,68,63,0.8);*/
 }
-.desaparecer {
+/*.desaparecer {
 	height:0px;
 	width:0px;
 }
@@ -45,7 +46,48 @@ font-size: 0.8rem;
 
 #navbar-items li {
     padding: 10px;
+}*/
+
+#navbar {
+    width: 100%;
+   background: url('backmenumobile.jpg') no-repeat;
+    color: #eee;
+    height: 40px;
+    position: fixed;
+	font-size:0.9rem;
 }
+#navbar-container {
+    width: 80%;
+    /*height: 100%;*/
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#navbar-items {
+    display: flex;
+    list-style: none;
+    /*text-transform: uppercase;*/
+}
+#navbar-items li {
+    padding: 10px;
+}
+.click:hover{
+	cursor: pointer;
+    opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*HEADER*/
 #brasao {
