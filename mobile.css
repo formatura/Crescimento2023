@@ -1,6 +1,9 @@
 #corpotodo{
 	background-color: #0C5652;
 }
+body {
+	font-size:1rem;
+}
 #navbar {
     height: 140px;
 	width:100vw;
@@ -125,9 +128,7 @@ header{
 	width:0px;
 	height:0px;
 }
-.hatracoes{
-	font-size: 0.8rem;
-}
+
 #contatra {
 	padding-top: 0px;
 	padding-left: 55px;
@@ -153,7 +154,7 @@ header{
 }
 
 .titinsta {
-	font-size: 1.3rem;
+	font-size: 1.1rem;
 }
 .instagram{
 	padding:8px;
