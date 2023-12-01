@@ -11,7 +11,9 @@
 	width: 45vw;
 	display: column;
 	gap:10px;
-	font-style: italic;	
+	font-style: italic;
+	padding:10px;
+	text-align: center;
 }
 .textolegenda {
 	width: 100vw;
