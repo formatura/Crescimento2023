@@ -54,7 +54,7 @@ body {
 
 /* navbar */
 #navbar {
-    width: 100vw;
+    width: 100%;
     background: #054B34;
     color: #eee;
     height: 40px;
