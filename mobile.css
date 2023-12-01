@@ -159,8 +159,11 @@ header{
 }
 #capainsta img{
 	height: 0px;
-	width: 0px;
-	
+	width: 0px;	
+}
+#capainsta {
+	height: 0px;
+	width: 0px;	
 }
 #instaturma{
 	height:60vh;
