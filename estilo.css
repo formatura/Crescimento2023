@@ -336,11 +336,13 @@ section div:last-child {
 	color: #B6ACA8/*#D6CCC8*/;
 	
 }
-#localização{
-	
+#localização{	
 	width:100vw;
-	height: 100vh;
-	
+	height: 100vh;	
+}
+#localização img{
+	width: 80vw;
+	height:auto;
 }
 
 
