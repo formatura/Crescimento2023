@@ -14,6 +14,11 @@ body {
 }
 .desaparecer {
 	height:0px;
+	width:0px;
+}
+.desaparecer img {
+	height:0px;
+	width:0px;
 }
 #navbar-container {
     flex-direction: column;
