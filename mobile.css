@@ -157,7 +157,7 @@ header{
 	font-size: 1.1rem;
 }
 .instagram{
-	padding:8px;
+	padding:2.5vw;
 }
 .instagram img{
 	width: 28vw;
@@ -171,14 +171,14 @@ header{
 	width: 0%;	
 }
 #instaturma{
-	height:60vh;
+	height:35vh;
 }
 #galeria img{
 	height: auto;
 	width:80vw;
-	padding: 5px;
-	
+	padding: 5px;	
 }
+
 #galeriasec{
 	background:url('backgaleriamobile.png')no-repeat;
 	background-size: 100% auto;
