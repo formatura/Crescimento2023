@@ -170,6 +170,7 @@ header{
 }
 #galeriasec{
 	background:url('backgaleriamobile.png')no-repeat;
+	background-size: 100% auto;
 }
 #g1 {
 	margin-left:10vw;
