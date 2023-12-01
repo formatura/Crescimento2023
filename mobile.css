@@ -30,6 +30,7 @@ body {
 }
 
 #navbar-items {
+	margin-top: 1vh;
 	padding-top: 1vh;
     flex-direction: column;
     text-align: center;
