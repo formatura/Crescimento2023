@@ -2,10 +2,12 @@
 	background-color: #0C5652;
 }
 #navbar {
-    height: 163px;
+    height: 140px;
 	width:100vw;
-	background: url('backmenumobile.jpg');
+	background: url('backmenumobile.jpg') no-repeat;
+	background-size: 100% auto;
 	opacity: 0.8;
+	font-size: 0.8rem;
 	/*background-color: rgba(12,68,63,0.8);*/
 }
 #navbar-container {
