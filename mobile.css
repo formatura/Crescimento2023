@@ -35,12 +35,16 @@ body {
     flex-direction: column;
     text-align: center;
     width: 100%;
-font-size: 0.8remx;
+font-size: 0.8rem;
 }
 
 #navbar-items li:nth-child(2n) {
     border-top: 1px solid #0C5652;
     border-bottom: 1px solid #0C5652;
+}
+
+#navbar-items li {
+    padding: 10px;
 }
 
 /*HEADER*/
