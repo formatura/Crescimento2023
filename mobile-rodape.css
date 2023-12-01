@@ -1,3 +1,29 @@
+.legenda {
+	width: 45vw;
+	display: column;
+	gap:10px;
+	font-style: italic;	
+}
+.textolegenda {
+	width: 100vw;
+}
+
+.containlegenda {
+	display: column;
+	padding-bottom: 15px;
+	text-align: center;
+}
+#quadropontos {
+	display:grid;
+	grid-template-columns: repeat(1, 1fr);
+	vertical-align: top;
+	padding-bottom: 4vh;
+}
+
+
+
+
+
 
 /*RODAPÉ*/
 #pagmural{
