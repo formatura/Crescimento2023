@@ -33,7 +33,7 @@ body {
     flex-direction: column;
     text-align: center;
     width: 100%;
-	/*font-size: 15px;*/
+font-size: 0.8remx;
 }
 
 #navbar-items li:nth-child(2n) {
