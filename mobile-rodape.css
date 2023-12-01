@@ -18,7 +18,8 @@
 }
 
 .containlegenda {
-	display: column;
+	display:grid;
+	grid-template-columns: repeat(1, 1fr);
 	padding-bottom: 15px;
 	text-align: center;
 }
