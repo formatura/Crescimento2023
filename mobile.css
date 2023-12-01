@@ -74,7 +74,7 @@ header{
 }
 #acessarmapa{
 	padding:30px;
-	padding-top: 40px;
+	padding-top: 50px;
 }
 /*.corpotodo{
 	padding-top:180px;
@@ -155,8 +155,8 @@ header{
 	width: 28vw;
 }
 #capainsta img{
-	height: 20px;
-	width: auto;
+	height: 0px;
+	width: 0px;
 	
 }
 #instaturma{
