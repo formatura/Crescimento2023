@@ -338,8 +338,11 @@ section div:last-child {
 }
 
 #localizacao img{
-	width: 80vw;
+	width: 200px;
 	height:auto;
+	
+}
+#localizacao{
 	text-align: center;
 }
 
