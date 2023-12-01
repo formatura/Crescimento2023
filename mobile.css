@@ -89,13 +89,13 @@ header{
 }
 #acessarmapa{
 	padding:30px;
-	padding-top: 50px;
+	padding-top: 60px;
 }
 /*.corpotodo{
 	padding-top:180px;
 }*/
 #pagmapa{
-	 width:100vw;
+	 max-width:100vw;
 	 padding: 0px; 
  }
 .legenda {
@@ -114,8 +114,12 @@ header{
 	text-align: center;
 }
 #quadropontos {
+	display:grid;
 	grid-template-columns: repeat(1, 1fr);
+	vertical-align: top;
+	padding-bottom: 4vh;
 }
+
 
 
 
@@ -155,7 +159,7 @@ header{
 
 /*BUFFET*/
 #buffet{
-	padding:30px;
+	padding:5px;
 }
 #mural{
 	padding:30px;
